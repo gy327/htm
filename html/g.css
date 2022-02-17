@@ -1,0 +1,10 @@
+
+body
+{
+    background-image: url("/h.jpg");
+    background-size: cover;
+}
+p
+{
+    color: rgb(47, 11, 80);
+}
